@@ -1,0 +1,5 @@
+ID|Product|UOM|Quantity |Unitprice|Branch
+1|Revenue|usd |50|60|B1
+2|EBITDA|usd|26|200|B2
+3|Retained EBITDA inJVs|usd|34|140|B3
+4|Maintaining and Operating Capex|usd|34|140|B4
